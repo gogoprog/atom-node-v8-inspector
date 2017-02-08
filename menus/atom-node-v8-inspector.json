@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-node-v8-inspector",
-        "command": "atom-node-v8-inspector:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
@@ -15,8 +7,8 @@
           "label": "atom-node-v8-inspector",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atom-node-v8-inspector:toggle"
+              "label": "Debug",
+              "command": "atom-node-v8-inspector:debug"
             }
           ]
         }
