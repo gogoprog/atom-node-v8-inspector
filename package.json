@@ -15,6 +15,7 @@
   "dependencies": {
     "chrome-remote-interface": "^0.17.1",
     "portfinder": "^1.0.13",
+    "tmp": "0.0.31",
     "ws": "^2.0.2"
   }
 }
