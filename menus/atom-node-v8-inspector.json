@@ -4,11 +4,15 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-node-v8-inspector",
+          "label": "NodeV8Inspector",
           "submenu": [
             {
               "label": "Debug",
               "command": "atom-node-v8-inspector:debug"
+            },
+            {
+              "label": "Toggle breakpoint",
+              "command": "atom-node-v8-inspector:toggle-breakpoint"
             }
           ]
         }

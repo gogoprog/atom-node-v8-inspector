@@ -1,5 +1,6 @@
 {
   "atom-text-editor[data-grammar='source js']": {
-    "f5": "atom-node-v8-inspector:debug"
+    "f5": "atom-node-v8-inspector:debug",
+    "f9": "atom-node-v8-inspector:toggle-breakpoint"
   }
 }
