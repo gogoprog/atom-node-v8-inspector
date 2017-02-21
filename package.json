@@ -5,7 +5,8 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "atom-node-v8-inspector:debug"
+    "atom-workspace": "atom-node-v8-inspector:debug",
+    "atom-text-editor": "atom-node-v8-inspector:toggle-breakpoint"
   },
   "repository": "https://github.com/gogoprog/atom-node-v8-inspector",
   "license": "MIT",
