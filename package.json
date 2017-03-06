@@ -4,10 +4,7 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": ["atom-node-v8-inspector:debug", "atom-node-v8-inspector:clear-entry-point-(use-active-file)"],
-    "atom-text-editor": ["atom-node-v8-inspector:toggle-breakpoint","atom-node-v8-inspector:set-current-file-as-entry-point"]
-  },
+  "activationCommands": {},
   "repository": "https://github.com/gogoprog/atom-node-v8-inspector",
   "license": "MIT",
   "engines": {
