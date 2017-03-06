@@ -1,7 +1,7 @@
 {
   "name": "atom-node-v8-inspector",
   "main": "./lib/atom-node-v8-inspector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Set breakpoints in Atom and debug using Chrome and Node v8 inspector integration (node --inspect)",
   "keywords": [],
   "activationCommands": {},
